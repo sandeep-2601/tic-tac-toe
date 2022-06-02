@@ -1,6 +1,5 @@
 # The site is live at
-# https://eloquent-pegasus-5d0d26.netlify.app/
-
+# https://tictactoe-bt.netlify.app/
 It is a tic-tac toe application where you can go to any of the previous moves and continue your game from there
 
 # Getting Started with Create React App
